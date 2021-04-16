@@ -1,0 +1,63 @@
+html{
+  font-family: Cambria;
+  margin: 0 200px;
+  font-size: 17px;
+}
+
+body{
+  padding: 10px;
+}
+
+header{
+  line-height: 5px;
+  padding-top: 25px;
+  margin-bottom: 60px;
+  text-align: center;
+  font-size: larger;
+}
+
+
+div h3.categories-top{
+  text-align: left;
+  border-bottom: 2px solid black;
+}
+
+div p.prof{
+  text-align: left;
+  margin-top: -10px;
+
+}
+
+#listin{
+  list-style-position: initial;
+  margin-top: -10px; 
+}
+
+table{
+  border: none;
+  width: 100%;
+  margin-top: -10px;
+}
+
+tr td.data{
+  width: 30%;
+  vertical-align: text-top;
+}
+
+tr td.info{
+  width: 70%;
+}
+
+tr td.info li{
+  list-style: inherit;
+}
+
+tr td#data1{
+  width: 50%;
+  vertical-align: text-top;
+}
+
+tr td#info1{
+  width: 50%;
+  vertical-align: text-top;
+}
